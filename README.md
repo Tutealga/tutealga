@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mateo Algañarás</h1>
-<h3 align="center">A passionate Front End Developer from Argentina</h3>
+<h3 align="center">Front End Developer from Argentina</h3>
 
 - 🌱 I’m currently learning React.js
 - 📫 How to reach me **tutealga@gmail.com**
