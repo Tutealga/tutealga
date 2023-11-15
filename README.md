@@ -1,5 +1,5 @@
 <h1 align="center">Mateo Algañarás</h1>
-<h3 align="center">Desarrollador de Software • Desarrollador Front End • Enfocado en la comprensión integral del negocio</h3>
+<h3 align="center">Desarrollador de Software • Desarrollador Front End</h3>
 
 - 🌱 Actualmente estoy aprendiendo **Next.js**, el cual ya implemente en muchos de mis proyectos, y estoy adentrándome en el desarrollo back end con **Node.js**, **Express** y **PostgreSQL**.
 
