@@ -11,7 +11,7 @@
   
 <h3 align="left">Lenguajes y Herramientas:</h3>
 
-<p align="left">
+<div display="flex" gap="1rem">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer" display="flex" flex-direction="column"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>Bootstrap</a>
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://www.drupal.org/files/project-images/nextjs-icon-dark-background.png" alt="next.js" width="40" height="40"/></a>
@@ -25,4 +25,4 @@
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/200px-Postgresql_elephant.svg.png" alt="PostgreSQL" width="40" height="40"/></a>
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.gstatic.com/devrel-devsite/prod/va65162e8ce9aacc75e4d3c0cd6d166fc6ceaaf184fea0ff0eac1d9b62c0480be/firebase/images/touchicon-180.png" alt="Firebase" width="40" height="40"/></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" alt="MySQL" width="40" height="40"/></a>
-</p>
+</div>
