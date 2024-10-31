@@ -1,7 +1,7 @@
 <h1 align="center">Mateo Algañarás</h1>
 <h3 align="center">Software Developer • Front End Developer</h3>
 
-- 🌱 Actualmente estoy aprendiendo **Next.js**, el cual ya implemente en muchos de mis proyectos, y estoy adentrándome en el desarrollo back end con **Node.js**, **Express** y **PostgreSQL**.
+- 🌱  At the moment im learning back end with **Node.js**, **Express** and **PostgreSQL**.
 
 <h3 align="left">Contact me</h3>
 <p align="left">
@@ -9,7 +9,7 @@
 <a href="mailto:tutealga@gmail.com" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" alt="mateoalganaras" height="30" width="40" /></a>
 </p>
   
-<h3 align="left">Lenguajes y Herramientas:</h3>
+<h3 align="left">Languages ​​and Tools:</h3>
 
 <p align="left">
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
